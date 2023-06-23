@@ -1,0 +1,39 @@
+.section-title {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+
+
+.img-fluid {
+    width: 100%;
+    height: auto;
+    border: solid steelblue 8px;
+}
+
+img, svg {
+    vertical-align: middle;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+user agent stylesheet
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
+.text-body-emphasis {
+    margin-right: 110px;
+}
+
+.list {
+    margin-top: 250px;
+    font-size: 25px;
+}
+
+.last-footer {
+    font-size: 25px;
+}
